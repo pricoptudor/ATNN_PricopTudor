@@ -10,7 +10,7 @@
 <div align="center">
   <p align="center">
     <br />
-    <a href="https://github.com/pricoptudor/ATNN_PricopTudor/FinalProject/blob/main/ATNN%20-%20final.pdf"><strong>Explore the documentation »</strong></a>
+    <a href="https://github.com/pricoptudor/ATNN_PricopTudor/blob/main/FinalProject/ATNN_final.pdf"><strong>Explore the documentation »</strong></a>
     <br />
     <a href="https://prezi.com/view/Bzw4hX0gAgllLSpuzYu7/"><strong>Explore the presentation »</strong></a>  
     <br />
@@ -150,7 +150,7 @@ Github: [Profile page](https://github.com/pricoptudor)
 Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[license-shield]: https://img.shields.io/github/license/pricoptudor/ATNN_PricopTudor/FinalProject.svg?style=for-the-badge
-[license-url]: https://github.com/pricoptudor/ATNN_PricopTudor/FinalProject/blob/main/LICENSE
+[license-shield]: https://img.shields.io/github/license/pricoptudor/ATNN_PricopTudor
+[license-url]: https://github.com/pricoptudor/ATNN_PricopTudor/blob/main/FinalProject/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/tudorc-pricop/
