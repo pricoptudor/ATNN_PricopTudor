@@ -21,7 +21,7 @@ Simple version:
 [TD3](https://huggingface.co/MadFritz/td3-BipedalWalker-v3)
 [SAC](https://huggingface.co/MadFritz/sac-BipedalWalker-v3)
 
-![normal](/Images/bipedal-normal.png)
+![normal](https://github.com/pricoptudor/ATNN_PricopTudor/blob/main/FinalProject/Images/bipedal-normal.png)
 
 It seems that all methods were able to reach a score of over 300, while not making more than 1600 steps per episode, meaning they successfully solved the environment.
 While the ARS agent seems to learn the optimal strategy: the Knee Balance, the others try to hurry, learning to run as fast as they can: the Double Balance strategy. (see [documentation](https://github.com/pricoptudor/ATNN_PricopTudor/blob/main/FinalProject/ATNN_final.pdf) for details on walking strategies)
@@ -33,7 +33,7 @@ Hardcore version:
 [TD3](https://huggingface.co/MadFritz/td3-BipedalWalkerHardcore-v3)
 [SAC](https://huggingface.co/MadFritz/sac-BipedalWalkerHardcore-v3)
 
-![hardcore](/Images/bipedal-hardcore.png)
+![hardcore](https://github.com/pricoptudor/ATNN_PricopTudor/blob/main/FinalProject/Images/bipedal-hardcore.png)
 
 None of the agents were able to get to a score of 300, meaning they could not solve the environment. In fact, only one of them managed to understand a bit how to take over the obstacles: TQC.
 Visually, ARS, TD3 and PPO are trying to double balance the agent (until it falls or gets stuck), while SAC and TQC found that the best balancing method is on the rear leg.
