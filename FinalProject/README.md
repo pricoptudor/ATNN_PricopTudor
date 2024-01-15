@@ -12,7 +12,7 @@
     <br />
     <a href="https://github.com/pricoptudor/ATNN_PricopTudor/blob/main/FinalProject/ATNN_final.pdf"><strong>Explore the documentation »</strong></a>
     <br />
-    <a href="https://prezi.com/view/Bzw4hX0gAgllLSpuzYu7/"><strong>Explore the presentation »</strong></a>  
+    <a href="https://prezi.com/view/82OzmZQYz9ZOgSr7Qdbi/"><strong>Explore the presentation »</strong></a>  
     <br />
     <br />
   </p>
