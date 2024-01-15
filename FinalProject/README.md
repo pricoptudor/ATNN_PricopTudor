@@ -24,6 +24,16 @@
 
 <br />
 
+<b>Code documents</b>:
+
+- [ars-BipedalWalker.py](https://github.com/pricoptudor/ATNN_PricopTudor/blob/main/FinalProject/ars-BipedalWalker.py) : Personal implementation of ARS
+
+- [optuna-BipedalWalker.ipynb](https://github.com/pricoptudor/ATNN_PricopTudor/blob/main/FinalProject/optuna-BipedalWalker.ipynb) : Hyperparameter tuning with Optuna
+
+- [train-BipedalWalker.ipynb](https://github.com/pricoptudor/ATNN_PricopTudor/blob/main/FinalProject/train-BipedalWalker.ipynb) : Training with Stable-Baselines algorithms
+
+<br />
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Contents</summary>
